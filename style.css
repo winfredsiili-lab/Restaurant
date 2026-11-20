@@ -1,0 +1,24 @@
+h1 {
+    text-align:center;
+    font-family:space grotesk;
+    font-size: 90px;
+}
+
+body{
+    background-color: #83c5be
+}
+
+p{
+    font-family:space grotesk;
+    font-size: 30px;
+    text-align: center;
+    font-style:italic;
+}
+
+img{
+    width:1200px;
+    margin-left: 100px;
+    margin-top: 5px;
+    border:35px solid #006d77;
+
+}
